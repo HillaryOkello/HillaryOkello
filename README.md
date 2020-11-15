@@ -10,7 +10,7 @@ Welcome to my gitHub page. I am currently studying software Development at Micro
 #### 🌱 I’m currently learning ...
 * HTML & CSS
 * Ruby
-* Rubo on Rails
+* Ruby on Rails
 * Javascript
 * React
 * MySql
