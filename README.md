@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hillary-okello-b173101a4/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Kellyhillary4)
 
-Welcome to my gitHub page. I am currently studying software Development at Microverse.
+Welcome to my GitHub page. I am currently studying software Development at Microverse.
 
 #### 🌱 I’m currently learning ...
 * HTML & CSS
