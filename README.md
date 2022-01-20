@@ -7,7 +7,7 @@
 
 Welcome to my GitHub page. I am currently working as a software developer at CODEIT Institute of Technology and part time code reviewer at Microverse.
 
-#### 🔭 My tech stack is ...
+#### 👨‍💻 My tech stack is ...
 * HTML & CSS
 * Ruby
 * Ruby on Rails
