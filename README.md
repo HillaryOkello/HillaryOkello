@@ -16,7 +16,7 @@ Welcome to my GitHub page. I am currently working as a software developer at COD
 * Python
 * MySql
 * Postgresql
-* Soidity
+* Solidity
 
 #### 🔭 I’m currently working on ...
 * Contributing to open source projects.
